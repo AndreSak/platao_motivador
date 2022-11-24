@@ -1,0 +1,12 @@
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/platao_motivador
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/images/platao.png
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/bundle/data/flutter_assets/version.json

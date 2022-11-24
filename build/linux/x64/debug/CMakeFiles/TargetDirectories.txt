@@ -1,0 +1,14 @@
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/install.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/CMakeFiles/platao_motivador.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/kaserdna/flutter/platao_motivador/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
